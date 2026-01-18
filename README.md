@@ -17,3 +17,9 @@ Sorted Array (Decreasing): [9, 6, 5, 5, 2, 1]
 
 ## Reference
 Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). *Introduction to Algorithms* (4th ed.). Random House Publishing Services.
+
+## Files Included
+- insertion_sort_desc.py
+- README.md
+- requirements.txt
+
